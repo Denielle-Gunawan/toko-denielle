@@ -1,0 +1,23 @@
+body {
+  overflow-y: scroll; /* Enable vertical scrollbar */
+}
+
+table {
+  background-color: azure;
+  position: relative; /* Change position to relative */
+  top: 39%; /* Adjust the margin from the top */
+  width: 90%;
+  left: 5%;
+}
+
+h1 {
+  position: absolute;
+  top: 7%;
+  left: 40%;
+}
+
+.tambah {
+  position: relative; /* Change position to relative */
+  margin-top: 10%; /* Add margin from the top */
+  left: 5%;
+}
